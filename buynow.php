@@ -19,7 +19,7 @@
             </label>
             <ul>
                 <li><a href="projekti.php">Home</a></li>
-                <li><a href="buynow.html">Phone</a></li>
+                <li><a href="buynow.php">Phone</a></li>
                 <li><a href="login.php">Account</a></li>
                 <li><a href="contactus.php">Contact Us</a></li>
             </ul>

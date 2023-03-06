@@ -183,7 +183,7 @@
             </div>
             </div>
             <div class="footer-bottom">
-                <p>copyright &copy; 2021 <span>Samir Kabashi & Armend Thaci</span></p>
+                <p>copyright &copy; 2023 <span>Samir Kabashi & Armend Thaci</span></p>
             </div>
         </footer>
 
