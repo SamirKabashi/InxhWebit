@@ -3,13 +3,14 @@
  if(isset($_GET['id'])){
      $menuId = $_GET['id'];
  }
-
+ 
  $menu = new MenuController;
  $currenMenu = $menu->edit($menuId);
 
  if(isset($_POST['submit'])){
      $menu->update($_POST, $menuId);
  }
+
  ?>
 <style>
     .box{
